@@ -25,7 +25,9 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: What is Convertify?
-    subtitle: Coverting files shouldn't be hard and require too much effort.
+    subtitle: >-
+      Coverting files shouldn't be hard and require too much effort. That's why
+      we built Convertify, the easiest way to convert files.
     items:
       - type: Card
         title: First Item Title
