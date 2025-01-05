@@ -9,7 +9,7 @@ sections:
     actions:
       - type: Button
         label: START CONVERTING!
-        url: /convert
+        url: convert
         size: large
         variant: contained
         color: primary
