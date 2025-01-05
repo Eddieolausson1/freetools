@@ -13,12 +13,6 @@ sections:
         size: large
         variant: contained
         color: primary
-      - type: Button
-        label: READ MORE
-        url: ''
-        size: large
-        variant: outlined
-        color: primary
     image:
       type: Image
       url: /images/hero.svg
