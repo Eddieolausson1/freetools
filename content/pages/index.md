@@ -40,10 +40,8 @@ sections:
         actions: []
       - type: Card
         title: Fast conversion times.
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          Convertify makes file conversions quicker and easier than ever.
         image:
           type: Image
           url: /images/mui-5.svg
