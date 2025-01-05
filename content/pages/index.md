@@ -15,7 +15,7 @@ sections:
         color: primary
       - type: Button
         label: READ MORE
-        url: ''
+        url: read-more
         size: large
         variant: outlined
         color: primary
