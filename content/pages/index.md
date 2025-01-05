@@ -9,7 +9,7 @@ sections:
     actions:
       - type: Button
         label: Start Converting
-        url: 'https://docs.netlify.com/create/getting-started/'
+        url: convert
         size: large
         variant: contained
         color: primary
