@@ -30,7 +30,7 @@ sections:
       simplest and most efficient way to convert files.
     items:
       - type: Card
-        title: First Item Title
+        title: Easy to use.
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
