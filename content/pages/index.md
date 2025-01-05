@@ -8,7 +8,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Start Building
+        label: TOOLS
         url: 'https://docs.netlify.com/create/getting-started/'
         size: large
         variant: contained
