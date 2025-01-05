@@ -41,7 +41,7 @@ sections:
       - type: Card
         title: Fast conversion times.
         text: |
-          Convertify makes file conversions quicker and easier than ever.
+          Convertify makes file conversions quicker than ever.
         image:
           type: Image
           url: /images/mui-5.svg
