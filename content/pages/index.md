@@ -48,6 +48,24 @@ sections:
           altText: Second item image
         actions: []
       - type: Card
+        title: Item Title
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: Image
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+        actions:
+          - type: Button
+            label: Learn More
+            url: /
+            size: medium
+            variant: text
+            color: primary
+      - type: Card
         title: ''
         text: |
           Convertify supports a wide range of formats to suit your needs.
