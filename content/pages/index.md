@@ -25,7 +25,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: What is Convertify?
-    subtitle: Convertify is an online web application that makes converting files
+    subtitle: Coverting files shouldn't be hard and require too much effort.
     items:
       - type: Card
         title: First Item Title
