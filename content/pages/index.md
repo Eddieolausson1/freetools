@@ -47,13 +47,4 @@ sections:
           url: /images/mui-5.svg
           altText: Second item image
         actions: []
-      - type: Card
-        title: ''
-        text: |
-          Convertify supports a wide range of formats to suit your needs.
-        image:
-          type: Image
-          url: /images/ts.svg
-          altText: Third item image
-        actions: []
 ---
