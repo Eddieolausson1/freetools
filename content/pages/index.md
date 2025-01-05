@@ -35,7 +35,7 @@ sections:
           Convertify is easy to use and hassle-free!
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Namnlös design (2).png
           altText: First item image
         actions: []
       - type: Card
