@@ -4,7 +4,7 @@ title: home page
 sections:
   - type: HeroSection
     title: Convertify
-    subtitle: Free web tools to make your life better.
+    subtitle: Convert anything!
     text: ''
     actions:
       - type: Button
