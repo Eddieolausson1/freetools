@@ -54,7 +54,7 @@ sections:
           needs.
         image:
           type: Image
-          url: /images/Namnlös design.png
+          url: /images/Namnlös design (1).png
           altText: Item image
         actions: []
 ---
