@@ -55,7 +55,7 @@ sections:
           explicabo.
         image:
           type: Image
-          url: /images/niklas-veenhuis-rhVD9wlnO_I-unsplash.jpg
+          url: /images/Namnlös design.png
           altText: Item image
         actions:
           - type: Button
