@@ -30,54 +30,31 @@ sections:
       simplest and most efficient way to convert files.
     items:
       - type: Card
-        title: First Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        title: Easy to use.
+        text: |
+          Convertify is easy to use and hassle-free!
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Namnlös design (2).png
           altText: First item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
-        title: Second Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        title: Fast conversion times.
+        text: |
+          Convertify makes file conversions quicker than ever.
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Namnlös design (4).png
           altText: Second item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
-        title: Third Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        title: Scalable.
+        text: >
+          Convertify supports a wide range of file formats to meet all your
+          needs.
         image:
           type: Image
-          url: /images/ts.svg
-          altText: Third item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
+          url: /images/Namnlös design (1).png
+          altText: Item image
+        actions: []
 ---
