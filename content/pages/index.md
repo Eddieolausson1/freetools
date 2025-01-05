@@ -3,21 +3,15 @@ type: Page
 title: home page
 sections:
   - type: HeroSection
-    title: Convertify
-    subtitle: Convert anything!
+    title: Wish converting files was easy?
+    subtitle: Its Convertify!
     text: ''
     actions:
       - type: Button
-        label: Start Converting
+        label: START CONVERTING!
         url: convert
         size: large
         variant: contained
-        color: primary
-      - type: Button
-        label: READ MORE
-        url: read-more
-        size: large
-        variant: outlined
         color: primary
     image:
       type: Image
