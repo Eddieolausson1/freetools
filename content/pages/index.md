@@ -49,10 +49,9 @@ sections:
         actions: []
       - type: Card
         title: Item Title
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Convertify supports a wide range of file formats to meet all your
+          needs.
         image:
           type: Image
           url: /images/Namnlös design.png
