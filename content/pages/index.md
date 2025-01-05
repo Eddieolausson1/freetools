@@ -3,7 +3,7 @@ type: Page
 title: home page
 sections:
   - type: HeroSection
-    title: Free Tools
+    title: Convertify
     subtitle: Free web tools to make your life better.
     text: ''
     actions:
