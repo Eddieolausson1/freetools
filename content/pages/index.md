@@ -26,8 +26,8 @@ sections:
   - type: CardsSection
     title: What is Convertify?
     subtitle: >-
-      Coverting files shouldn't be hard and require too much effort. That's why
-      we built Convertify, the easiest way to convert files.
+      Converting files should be easy. That’s why we created Convertify—the
+      simplest and most efficient way to convert files.
     items:
       - type: Card
         title: First Item Title
