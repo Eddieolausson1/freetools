@@ -4,7 +4,7 @@ title: home page
 sections:
   - type: HeroSection
     title: Wish converting files was easy?
-    subtitle: The section subtitle
+    subtitle: Its Convertify!
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
