@@ -25,7 +25,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: What is Convertify?
-    subtitle: Convertify is a online web application that helps you easely
+    subtitle: Convertify is a online web application that helps yoeasely
     items:
       - type: Card
         title: First Item Title
