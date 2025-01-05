@@ -3,23 +3,19 @@ type: Page
 title: home page
 sections:
   - type: HeroSection
-    title: This is a Big Hero Headline
-    subtitle: The section subtitle
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    title: Convertify
+    subtitle: Convert anything!
+    text: ''
     actions:
       - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/create/getting-started/'
+        label: Start Converting
+        url: convert
         size: large
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        label: READ MORE
+        url: read-more
         size: large
         variant: outlined
         color: primary
@@ -28,8 +24,10 @@ sections:
       url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Title
-    subtitle: The section subtitle
+    title: What is Convertify?
+    subtitle: >-
+      Converting files should be easy. That’s why we created Convertify—the
+      simplest and most efficient way to convert files.
     items:
       - type: Card
         title: First Item Title
