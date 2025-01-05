@@ -44,7 +44,7 @@ sections:
           Convertify makes file conversions quicker than ever.
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Namnlös design (1).png
           altText: Second item image
         actions: []
       - type: Card
