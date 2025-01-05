@@ -3,7 +3,7 @@ type: Page
 title: home page
 sections:
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: Wish converting files was easy?
     subtitle: The section subtitle
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
