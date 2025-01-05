@@ -48,7 +48,7 @@ sections:
           altText: Second item image
         actions: []
       - type: Card
-        title: Item Title
+        title: Scalable.
         text: >
           Convertify supports a wide range of file formats to meet all your
           needs.
