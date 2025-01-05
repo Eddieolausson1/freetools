@@ -3,7 +3,7 @@ type: Page
 title: home page
 sections:
   - type: HeroSection
-    title: Convertify
+    title: ''
     subtitle: Convert anything!
     text: ''
     actions:
