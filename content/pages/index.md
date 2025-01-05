@@ -2,27 +2,6 @@
 type: Page
 title: home page
 sections:
-  - type: HeroSection
-    title: ''
-    subtitle: Convert anything!
-    text: ''
-    actions:
-      - type: Button
-        label: Start Converting
-        url: convert
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
-        label: READ MORE
-        url: read-more
-        size: large
-        variant: outlined
-        color: primary
-    image:
-      type: Image
-      url: /images/hero.svg
-      altText: Hero section image
   - type: CardsSection
     title: What is Convertify?
     subtitle: >-
