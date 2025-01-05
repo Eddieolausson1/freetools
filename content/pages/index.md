@@ -15,7 +15,7 @@ sections:
         color: primary
       - type: Button
         label: READ MORE
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: ''
         size: large
         variant: outlined
         color: primary
